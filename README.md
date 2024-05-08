@@ -1,1 +1,1 @@
-aprendizado do curso git
+Colocando em prática aprendizados de Git e GitHub
